@@ -1,6 +1,7 @@
 # Tempo Task Manager (Android) 📱
 
-![unnamed](https://github.com/user-attachments/assets/6974cbb1-dab5-41e2-b8e5-888855e94a3b)
+![unnamed](https://github.com/user-attachments/assets/2e15f9d7-6200-4412-bf9f-8a5d28731233)
+
 
 
 **Tempo Android** — это мобильный клиент для умного управления задачами. Полная синхронизация с веб-версией, AI-ассистент и работа в оффлайн-режиме.
